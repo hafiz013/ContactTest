@@ -18,6 +18,7 @@
     "firstName": "Gertrude",
     "lastName": "Mccormick",
     "email": "gertrudemccormick@furnafix.com",
+    "phone": ""
   },
   {
     "id": "5c8a80f5e2ad4c1edc5cc5d9",
@@ -30,6 +31,7 @@
     "id": "5c8a80f5437a24a66ac7e0c5",
     "firstName": "Willie",
     "lastName": "Gonzalez",
+    "email": "",
     "phone": "(892) 456-3603"
   },
   {
@@ -49,7 +51,9 @@
   {
     "id": "5c8a80f597cdf9c2fc4f8466",
     "firstName": "Hancock",
-    "lastName": "Foreman"
+    "lastName": "Foreman",
+    "email": "",
+    "phone": ""
   },
   {
     "id": "5c8a80f537cded38d718ecf5",
@@ -97,6 +101,8 @@
     "id": "5c8a80f59283e24a4e526335",
     "firstName": "Hilda",
     "lastName": "Holder",
+    "email": "",
+    "phone": ""
   },
   {
     "id": "5c8a80f52aec26a5edc4e17c",
